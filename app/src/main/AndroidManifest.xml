@@ -26,7 +26,7 @@
 
         <provider
             android:name="com.example.protectedcontent.DataProvider"
-            android:authorities="com.example.protectedcontent.DataProvider"
+            android:authorities="com.example.protectedcontent.provider"
             android:readPermission="com.example.protectedcontent.read"/>
     </application>
 
