@@ -8,5 +8,5 @@ object Constants {
     val CONTENT_TYPE = "vnd.android.cursor.dir/vnd.android.contentproviderlab.t1"
     val ID = "_ID"
     val TEXT = "MESSAGE"
-    val TEXT_DATA = "Hello Content Providers!"
+    val TEXT_DATA = "Hello Content Providers! protected"
 }
